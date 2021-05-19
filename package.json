@@ -31,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xcarpentier/rn-pdf-reader-js.git"
+    "url": "git+https://github.com/akang/rn-pdf-reader-js.git"
   },
   "peerDependencies": {
     "expo": ">= 33.0.x < 42.0.x",
